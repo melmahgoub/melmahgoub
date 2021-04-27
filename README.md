@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @melmahgoub <mawada>
+- 👋🏽 Hi, I’m @melmahgoub | mawada
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on ML | javascript projects
 - 📫 How to reach me @mawadaelmahgoub on Twitter
 
 <!---
